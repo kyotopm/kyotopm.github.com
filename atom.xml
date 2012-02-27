@@ -4,7 +4,7 @@
   <title><![CDATA[Kyoto Perl Mongers]]></title>
   <link href="http://kyotopm.github.com/atom.xml" rel="self"/>
   <link href="http://kyotopm.github.com/"/>
-  <updated>2012-02-27T21:30:35+09:00</updated>
+  <updated>2012-02-28T00:12:05+09:00</updated>
   <id>http://kyotopm.github.com/</id>
   <author>
     <name><![CDATA[Kyoto.pm]]></name>
@@ -14,11 +14,88 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://kyotopm.github.com/blog/2012/02/27/test/"/>
-    <updated>2012-02-27T00:00:00+09:00</updated>
-    <id>http://kyotopm.github.com/blog/2012/02/27/test</id>
-    <content type="html"><![CDATA[<p>便利ですね</p>
+    <title type="html"><![CDATA[Kyoto Perl Mongers Tech Talks #01を開催します！]]></title>
+    <link href="http://kyotopm.github.com/blog/2012/02/17/kyotopm-tech-talks-01/"/>
+    <updated>2012-02-17T00:00:00+09:00</updated>
+    <id>http://kyotopm.github.com/blog/2012/02/17/kyotopm-tech-talks-01</id>
+    <content type="html"><![CDATA[<p>　こんにちは、柴崎( <a href="http://twitter.com/shiba_yu36/">@shiba_yu36</a> )です。Kyoto Perl Mongers Tech Talks #01の開催のお知らせです！</p>
+
+<p>　去年のYAPC::Asiaから、京都にもPerl Mongersが欲しいと思って構想を進めてきたKyoto.pmが、ついに3月から活動を開始できることになりました。
+　そこで最初の活動としてKyoto.pm Tech Talks #01を3/17(土)に開催します。</p>
+
+<h2>Yappoさんが来ます！</h2>
+
+<p>　今回、初の活動にもかかわらずJPA様の支援を頂く事が出来ました。そこでApp::Ikachanなどの様々なCPANモジュールの作者であり、WEB+DB PRESS での Perl 連載枠の立ち上げなども行なっている <a href="http://blog.yappo.jp/">Yappoさん</a> に、特別講師として京都まで来てもらえることになりました！ありがとうございます！</p>
+
+<h2>開催詳細</h2>
+
+<ul>
+<li>日程：2012年3月17日(土) 13:00～17:00</li>
+<li>会場：株式会社はてな京都本社 / 御池ビル8F （京都府京都市中京区御池通間之町東入高宮町206）</li>
+<li>参加費：社会人500~1000円・学生無料</li>
+<li>懇親会：Tech Talksが終わった後に開催予定。現在計画中。</li>
+</ul>
+
+
+<h2>参加者・発表者募集</h2>
+
+<p>　参加者も発表者も両方共まだまだ募集しています。
+　初の開催ではありますが、出来る限り盛り上げていこうと思っているので、関西にいる皆様、ぜひぜひご参加いただけたらと思っています。参加は <a href="http://www.atnd.org/events/25439">[Perl勉強会] Kyoto.pm Tech Talks #01 : ATND</a> で受け付けていますので、こちらから登録してください。</p>
+
+<p>　また発表者は全然足りていません！Kyoto.pmは「エンジニアが気軽に発表できる」ということを一番の軸に考え、通常のトークであれば10～40分の間であれば、ある程度自由に自分で発表時間を決められるようにしています。またLTとして5分間で発表ということも可能です。今回は初心者の方も多く来られるので、初心者向けの発表をしてもらうというのも有りだと思っています。
+少しでも話そうと思った方、こちらも募集はATNDで行なっているので、そちらから応募ください。 <a href="http://www.atnd.org/events/25441">[Perl勉強会] Kyoto.pm Tech Talks #01 発表者募集 : ATND</a> から応募できます。</p>
+
+<h2>コミュニティ</h2>
+
+<p>現在は以下の場所でコミュニティ活動を行なっています。</p>
+
+<ul>
+<li>IRC：#kyoto.pm@chat.freenode.net</li>
+<li>メーリングリスト：<a href="http://groups.google.com/group/kyotopm">http://groups.google.com/group/kyotopm</a></li>
+<li>Kyoto.pm公式ブログ：<a href="http://kyotopm.github.com">http://kyotopm.github.com</a>(ドメイン取得後は<a href="http://kyoto.pm.org/">http://kyoto.pm.org/</a>になります)</li>
+<li>Facebookグループ：<a href="https://www.facebook.com/groups/164850510298765/">https://www.facebook.com/groups/164850510298765/</a></li>
+</ul>
+
+
+<p>それでは当日のご参加お待ちしております！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kyoto Perl Mongersを作成しました]]></title>
+    <link href="http://kyotopm.github.com/blog/2012/02/16/create-kyotopm/"/>
+    <updated>2012-02-16T00:00:00+09:00</updated>
+    <id>http://kyotopm.github.com/blog/2012/02/16/create-kyotopm</id>
+    <content type="html"><![CDATA[<p>Kyoto Perl Mongersを作成し、開催することになりました！</p>
+
+<h2>経緯</h2>
+
+<p>経緯などは <a href="http://d.hatena.ne.jp/shiba_yu36/20120216/1329364891">Kyoto.pmを作成＆開催します！</a> に書いておきましたので、こちらをご覧下さい。</p>
+
+<h2>今後の方向性</h2>
+
+<p>今後はアウトプットと地域色を軸としてPerl Mongersを実施していこうと思っています。</p>
+
+<p>アウトプットの軸としては</p>
+
+<ul>
+<li>3～4ヶ月程度おきの定期的なTech Talksの開催</li>
+<li>テーマを決めてのハッカソン</li>
+</ul>
+
+
+<p>のようなことをしたいと思っています。</p>
+
+<p>地域色の軸としては</p>
+
+<ul>
+<li>京都の寺もしくは町屋などの京都風建物を貸しきって勉強会もしくはハッカソン</li>
+</ul>
+
+
+<p>のようなことを考えています。</p>
+
+<p>まだまだ始まったばかりですが、今後もよろしくお願いします！</p>
 ]]></content>
   </entry>
   
