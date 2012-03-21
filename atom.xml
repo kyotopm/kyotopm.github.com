@@ -4,7 +4,7 @@
   <title><![CDATA[Kyoto Perl Mongers]]></title>
   <link href="http://kyotopm.github.com/atom.xml" rel="self"/>
   <link href="http://kyotopm.github.com/"/>
-  <updated>2012-03-18T23:11:18+09:00</updated>
+  <updated>2012-03-21T13:37:15+09:00</updated>
   <id>http://kyotopm.github.com/</id>
   <author>
     <name><![CDATA[Kyoto.pm]]></name>
@@ -12,6 +12,96 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kyoto.pm Tech Talks #01 レポート]]></title>
+    <link href="http://kyotopm.github.com/blog/2012/03/20/kyotopm-tech-talks-01-report/"/>
+    <updated>2012-03-20T00:00:00+09:00</updated>
+    <id>http://kyotopm.github.com/blog/2012/03/20/kyotopm-tech-talks-01-report</id>
+    <content type="html"><![CDATA[<p>　こんにちは柴崎( <a href="http://twitter.com/shiba_yu36/">@shiba_yu36</a> )です。</p>
+
+<p>　3/17(土)にKyoto.pm Tech Talks #01を開催しました。今回はJPA様の支援をいただき、@Yappoさんに講師として来てもらえました。当日は50人程度の参加があり、非常に盛り上がりました！</p>
+
+<p>　最初は通常トークから始まりました。発表は7つほど。ちょっとしたトラブルはありましたが(プロジェクタがうまく動かなかったり、@Yappoさんが懐石料理を食べてて遅刻したりw)、本格的な発表も多く、非常に楽しめました。ORMやjob queueなどのお話が多かったように思います。</p>
+
+<p><img src="http://farm7.staticflickr.com/6045/6999930853_dab261044b_n.jpg" width=400 /><br />
+<img src="http://s1-03.twitpicproxy.com/photos/large/539751283.jpg?key=32642448" width=400 /><br />
+<img src="http://farm8.staticflickr.com/7272/6853811998_8646d12cf0_n.jpg" width=300 /><br />
+<img src="http://farm8.staticflickr.com/7269/6853812374_9f7179d66f_n.jpg" width=400 /><br /></p>
+
+<p>　Lightning Talksは用意したお菓子をみんなで食べながら発表を聞くというスタイルを取りました。飛び入り参加も含め全部で11人が発表を行なってもらえました！ハッカソンの話や肉の話やセミコロンの話など、いろいろな話がありました。また、おみやげを持ってきていただいたissmさん、papixさんありがとうございました。</p>
+
+<p>前の方で司会をしていたため、写真が全然ない・・・。よさそうな写真を持っている方是非送ってくださいー。</p>
+
+<p>　Tech Talksが終わった後は、その場でピザやお酒などを頼んで懇親会を行いました。なんと途中から@xaicronさんが新幹線を使って突然訪れLTをするなどのイベントもありましたw</p>
+
+<p><img src="http://farm7.staticflickr.com/6035/6999941923_77a1310d31.jpg" width=400 /><br />
+立食ピザパーティ</p>
+
+<p><img src="http://farm7.staticflickr.com/6097/6853819316_a53a97cfb4.jpg" width=300 /><br />
+お酒やピザは一瞬でなくなりました・・・。</p>
+
+<p><img src="http://farm7.staticflickr.com/6091/6853821014_b0150e0dcc.jpg" width=400 /><br />
+懇親会中もORMなどについて真剣に議論されていたり。</p>
+
+<p><img src="http://farm7.staticflickr.com/6229/6999944679_6278c4155b.jpg" width=300 /><br />
+新幹線で来たxaicronさん・・・。</p>
+
+<p><img src="http://farm7.staticflickr.com/6055/6853823686_bb646f5028.jpg" width=400 /><br />
+xaicronさんLT中。</p>
+
+<p>　そしてその後は京都のシンボルである鴨川に行って、川辺で二次会をやりました。二次会川でやっても大丈夫かなーと思いつつ、そのあたりにいる外国の方々と絡んだり、地面で餃子を食べてたり、普通に楽しめていて安心しました。</p>
+
+<p><img src="http://farm8.staticflickr.com/7183/6853827624_601483042d.jpg" width=400 /><br />
+川辺で餃子を食べるPerl Hacker達。</p>
+
+<p>　こんな感じでKyoto.pm Tech Talks #01を終えました。かなりの人数の人も集まり、発表も多く、企画してよかったと感じています。まだまだ反省点も多いので、次回からの開催に活かしたいと思います。</p>
+
+<p>　初開催にも関わらず、講師派遣をすぐにおこなってくれたJPA様には非常に感謝しています。おかげで関東からの人もかなり集まり、盛り上がることが出来たと思います。ありがとうございました！</p>
+
+<h2>発表</h2>
+
+<p>順次スライドや動画などをあげていきます。</p>
+
+<h3>JPA講師派遣トーク</h3>
+
+<ul>
+<li>JPA 派遣枠 LT 大会 @ Kyoto.pm Tech Talks #01(<a href="http://twitter.com/Yappo">@Yappo</a>さん)</li>
+</ul>
+
+
+<h3>通常トーク</h3>
+
+<ul>
+<li><p>10分でわかるPerl入学式(<a href="http://twitter.com/__papix__">@papix</a>さん)</p></li>
+<li><p>Qudoを使ったjob queue system(<a href="http://twitter.com/shiba_yu36">@shiba_yu36</a>さん)</p></li>
+<li><p>Mojolicious::LiteでPJAXしてみた(<a href="http://twitter.com/nquonet">@nquonet</a>さん)</p></li>
+<li><p>ORM - Object-relational mapping(<a href="http://twitter.com/nekokak">@nekokak</a>さん)</p></li>
+<li><p>正月発火村に参加して変なJobQueueサーバー作った話(<a href="http://twitter.com/@karupanerura">@karupanerura</a>さん)</p></li>
+<li><p>15:45-15:55 Git on WebApp with perl(<a href="http://twitter.com/hakobe">@hakobe</a>さん)</p></li>
+<li><p>15:55-16:15 Data::Mapper(<a href="http://twitter.com/kentaro">@kentaro</a>さん)</p></li>
+</ul>
+
+
+<h3>Lightning Talks!</h3>
+
+<ul>
+<li><p>ハッカソンを企画して(<a href="http://twitter.com/kfly8">@kfly8</a>さん)</p></li>
+<li><p>Dist::Makerとgit logでさっさと帰る話。(<a href="http://twitter.com/hisaichi5518">@hisaichi5518</a>さん)</p></li>
+<li><p>地味に便利な自作の鯖管コマンド(<a href="http://twitter.com/shoichimasuhara">@shoichimasuhara</a>さん)</p></li>
+<li><p>hello perl!!!(<a href="http://twitter.com/amariya">@amariya</a>さん)</p></li>
+<li><p>僕が最近使ってる新しいPerlの機能(<a href="http://twitter.com/azumakuniyuki">@azumakuniyuki</a>さん)</p></li>
+<li><p><a href="http://twitter.com/nagayama">@nagayama</a>さん</p></li>
+<li><p>格安PaaSのfluxflexで遊ぶ(<a href="http://twitter.com/Cside_">@Cside_</a>さん)</p></li>
+<li><p><a href="http://twitter.com/onishi">@onishi</a>さん</p></li>
+<li><p><a href="http://twitter.com/hitode909">@hitode909</a>さん</p></li>
+<li><p>App::gitrebasematsuri(<a href="http://twitter.com/issm">@issm</a>さん)</p></li>
+<li><p>最近使ったPerlの話(<a href="http://twitter.com/nitoyon">@nitoyon</a>さん)</p></li>
+<li><p>Kyoto.pmのこれから(<a href="http://twitter.com/shiba_yu36">@shiba_yu36</a>さん)</p></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kyoto.pmのiconを作ってもらいました！]]></title>
