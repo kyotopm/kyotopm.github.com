@@ -56,43 +56,61 @@ xaicronさんLT中。
 ### JPA講師派遣トーク
 
 * JPA 派遣枠 LT 大会 @ Kyoto.pm Tech Talks #01([@Yappo](http://twitter.com/Yappo)さん)
+  * <http://yappo.github.com/talks/20120317-kyotopm1/#/title>
+  * <http://www.youtube.com/watch?v=v6k405S7Rn8>
 
 ### 通常トーク
 * 10分でわかるPerl入学式([@papix](http://twitter.com/__papix__)さん)
-
 * Qudoを使ったjob queue system([@shiba_yu36](http://twitter.com/shiba_yu36)さん)
-
+  * <http://speakerdeck.com/u/shibayu36/p/qudojob-queue-system>
+  * <http://www.youtube.com/watch?v=Lw9cAW6KBxU>
 * Mojolicious::LiteでPJAXしてみた([@nquonet](http://twitter.com/nquonet)さん)
-
+  * <http://nqounet.github.com/presentation/20120317_kyotopm/index.html>
+  * <http://www.youtube.com/watch?v=7tRlwN9GpS4>
 * ORM - Object-relational mapping([@nekokak](http://twitter.com/nekokak)さん)
-
+  * <http://nekokak.org/presen/kyoto01/>
+  * <http://www.youtube.com/watch?v=EsgBSUINpOo>
 * 正月発火村に参加して変なJobQueueサーバー作った話([@karupanerura](http://twitter.com/@karupanerura)さん)
-
+  * <http://www.slideshare.net/karupanerura/jobqueue>
+  * <http://www.youtube.com/watch?v=HazkWlY-pXk>
 * 15:45-15:55 Git on WebApp with perl([@hakobe](http://twitter.com/hakobe)さん)
-
+  * <http://speakerdeck.com/u/hakobe/p/git-on-webapp-with-perl>
+  * <http://www.youtube.com/watch?v=mZ93iLTHrlg>
 * 15:55-16:15 Data::Mapper([@kentaro](http://twitter.com/kentaro)さん)
+  * <http://speakerdeck.com/u/kentaro/p/datamapper>
+  * <http://www.youtube.com/watch?v=kYVLJvrDgv4>
 
 ### Lightning Talks!
 * ハッカソンを企画して([@kfly8](http://twitter.com/kfly8)さん)
-
+  * <http://www.slideshare.net/KentaKobayashi1/ss-12047154>
+  * <http://www.youtube.com/watch?v=VDxSqJWFVpI>
 * Dist::Makerとgit logでさっさと帰る話。([@hisaichi5518](http://twitter.com/hisaichi5518)さん)
-
+  * <http://www.youtube.com/watch?v=p60xMBwIdAc>
 * 地味に便利な自作の鯖管コマンド([@shoichimasuhara](http://twitter.com/shoichimasuhara)さん)
-
+  * <http://www.slideshare.net/shoichimasuhara/parascript>
+  * <http://www.youtube.com/watch?v=HZ6XSOz3zmw>
 * hello perl!!!([@amariya](http://twitter.com/amariya)さん)
-
+  * <http://speakerdeck.com/u/amaria/p/nikuriacgi>
+  * <http://www.youtube.com/watch?v=30ibbLKMMU0>
 * 僕が最近使ってる新しいPerlの機能([@azumakuniyuki](http://twitter.com/azumakuniyuki)さん)
-
-* [@nagayama](http://twitter.com/nagayama)さん
-
+  * <http://www.slideshare.net/azumakuniyuki/perl-510-12046497>
+  * <http://www.youtube.com/watch?v=MNRIo0PPWOg>
+* JPAN OPEN SOURCE DESIGN COMMITTEE([@nagayama](http://twitter.com/nagayama)さん)
+  * <http://www.youtube.com/watch?v=1wRmPJGxZys>
 * 格安PaaSのfluxflexで遊ぶ([@Cside_](http://twitter.com/Cside_)さん)
-
-* [@onishi](http://twitter.com/onishi)さん
-
+  * <http://speakerdeck.com/u/cside_/p/vpsdotcloudrackhub>
+  * <http://www.youtube.com/watch?v=8adYyCDIPhM>
+* oEmbedとText::Hatena([@onishi](http://twitter.com/onishi)さん)
+  * <http://www.slideshare.net/onishi/oembed-texthatena>
+  * <http://www.youtube.com/watch?v=0UIyK4mOBPI>
 * [@hitode909](http://twitter.com/hitode909)さん
-
+  * <http://www.youtube.com/watch?v=SXCoNxhdMF8>
 * App::gitrebasematsuri([@issm](http://twitter.com/issm)さん)
-
+  * <http://www.slideshare.net/issm/2012-0317kyotopm01lt>
+  * <http://www.youtube.com/watch?v=BTBdDQ7yCsY>
 * 最近使ったPerlの話([@nitoyon](http://twitter.com/nitoyon)さん)
-
+  * <https://docs.google.com/presentation/d/1rbwzN8Tg34cfevQ28IPX-Jm5w1K1-cHs-5KEdgnbqo8/embed>
+  * <http://www.youtube.com/watch?v=TZpPQYCJgxQ>
 * Kyoto.pmのこれから([@shiba_yu36](http://twitter.com/shiba_yu36)さん)
+  * <http://speakerdeck.com/u/shibayu36/p/kyotopm>
+  * <http://www.youtube.com/watch?v=IDeaD6DgnZs>
