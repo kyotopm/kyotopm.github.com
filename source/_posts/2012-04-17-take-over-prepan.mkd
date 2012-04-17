@@ -1,0 +1,13 @@
+---
+layout: post
+title: "PrePAN運営を引継ぎました & ハッカソンを予定しています"
+date: 2012-04-17
+comments: true
+categories:
+---
+
+　こんにちは、柴崎( [@shiba_yu36](http://twitter.com/shiba_yu36/) )です。
+
+　先日id:antipopさんからPrePANの運営をKyoto.pmとして引き継ぐことにしました。またそれと同時にPrePANをオープンソース化しました。githubの<https://github.com/prepan-developers/prepan>においてあります。pull requestはいつでも受け付けておりますので、是非開発に参加してください!!
+
+　また、現在Kyoto.pmは町屋ハッカソンを企画しています。大体6月末くらいで企画しています。テーマは基本的にPerlでならなんでもOKで、今回引き継いだPrePANの開発でもOKのような感じで行きたいと思っています。また周知しますので、ご期待ください。
