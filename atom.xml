@@ -4,7 +4,7 @@
   <title><![CDATA[Kyoto Perl Mongers]]></title>
   <link href="http://kyotopm.github.com/atom.xml" rel="self"/>
   <link href="http://kyotopm.github.com/"/>
-  <updated>2012-04-17T14:03:04+09:00</updated>
+  <updated>2012-04-17T14:05:54+09:00</updated>
   <id>http://kyotopm.github.com/</id>
   <author>
     <name><![CDATA[Kyoto.pm]]></name>
@@ -14,13 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[PrePAN運営を引継ぎ & ハッカソンを予定しています]]></title>
+    <title type="html"><![CDATA[PrePAN運営を引継ぎました & ハッカソンを予定しています]]></title>
     <link href="http://kyotopm.github.com/blog/2012/04/17/take-over-prepan/"/>
     <updated>2012-04-17T00:00:00+09:00</updated>
     <id>http://kyotopm.github.com/blog/2012/04/17/take-over-prepan</id>
     <content type="html"><![CDATA[<p>　こんにちは、柴崎( <a href="http://twitter.com/shiba_yu36/">@shiba_yu36</a> )です。</p>
 
-<p>　先日id:antipopさんからPrePANの運営をKyoto.pmとして引き継ぐことにしました。またそれと同時にPrePANをオープンソース化しました。githubのhttps://github.com/prepan-developers/prepanにおいてあります。pull requestはいつでも受け付けておりますので、是非開発に参加してください!!</p>
+<p>　先日id:antipopさんからPrePANの運営をKyoto.pmとして引き継ぐことにしました。またそれと同時にPrePANをオープンソース化しました。githubの<a href="https://github.com/prepan-developers/prepan">https://github.com/prepan-developers/prepan</a>においてあります。pull requestはいつでも受け付けておりますので、是非開発に参加してください!!</p>
 
 <p>　また、現在Kyoto.pmは町屋ハッカソンを企画しています。大体6月末くらいで企画しています。テーマは基本的にPerlでならなんでもOKで、今回引き継いだPrePANの開発でもOKのような感じで行きたいと思っています。また周知しますので、ご期待ください。</p>
 ]]></content>
