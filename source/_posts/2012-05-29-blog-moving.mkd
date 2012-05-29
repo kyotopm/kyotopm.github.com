@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Kyoto.pmのブログを移転しました"
+date: 2012-05-29
+comments: true
+categories:
+---
+
+Kyoto.pmのブログを<http://kyotopm.hatenablog.com>に移転しました。最終的にはそちらのブログのURLがhttp://kyoto.pm.org/になる予定です。
+
+また、そちらのブログ <http://kyotopm.hatenablog.com/entry/2012/05/29/201309> で周知しましたが、町家ハッカソンを開催します。是非ご参加ください！
